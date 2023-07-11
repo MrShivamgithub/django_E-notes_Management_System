@@ -30,6 +30,7 @@ environment to run.
 
 # Step 4). Now we need to activate the virtual environment, so run the command –
 >>cd Django/Scripts
+
 >>activate
 This will activate the environment and you will be able to see the name Django at
 the left side of prompt.
@@ -43,6 +44,7 @@ the left side of prompt.
 # Step 7) Now you need to comeback to the previous directory so run the below command
 TWICE.
 >> cd ..
+
 >> cd ..
 
 
@@ -51,6 +53,7 @@ TWICE.
 
 # Step 9) Now run the server to check whether if it is working or not
 >> cd todoapp
+
 >> python manage.py runserver
 
 ----------------------------------------***---------------------------------------***---------------------------------------------------***-----------------------------
